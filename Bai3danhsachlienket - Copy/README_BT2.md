@@ -1,3 +1,6 @@
+Nguyễn Trí Cường
+MSSV:3124411049
+
 ## Ý tưởng
 ##### Cấu trúc dữ liệu
 - ``SinhVien: Lưu thông tin sinh viên (họ tên, địa chỉ, lớp, khóa).

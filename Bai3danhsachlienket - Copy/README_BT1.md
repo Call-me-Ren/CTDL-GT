@@ -1,3 +1,6 @@
+Nguyễn Trí Cường
+MSSV:3124411049
+
 ## Ý tưởng giải bài 1: Danh sách liên kết số nguyên
 - **Cấu trúc dữ liệu**
 _``Dùng danh sách liên kết đơn để lưu trữ các số nguyên.
