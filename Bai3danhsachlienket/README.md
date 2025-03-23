@@ -1,7 +1,8 @@
-Nguyễn Trí Cường
-MSSV:3124411049
+Họ và tên: Nguyễn Trí Cường
+MSSV: 3124411049
+Lớp: DCT124C7
 
-## Ý tưởng
+## Main idea
 ##### Cấu trúc dữ liệu
 - ``SinhVien: Lưu thông tin sinh viên (họ tên, địa chỉ, lớp, khóa).
 NodeSV: Node của danh sách liên kết, chứa một sinh viên.

@@ -1,7 +1,8 @@
-Nguyễn Trí Cường
-MSSV:3124411049
+Họ và tên: Nguyễn Trí Cường
+MSSV: 3124411049
+Lớp: DCT124C7
 
-## Ý tưởng giải bài 1: Danh sách liên kết số nguyên
+## Main idea
 - **Cấu trúc dữ liệu**
 _``Dùng danh sách liên kết đơn để lưu trữ các số nguyên.
  Mỗi phần tử trong danh sách là một node gồm hai phần:
