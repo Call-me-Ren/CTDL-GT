@@ -1,2 +1,1 @@
-# My-CTDL-GT
-Lưu code cá nhân môn CTDL&amp;GT
+# Danh sách những việc đã làm trên github
